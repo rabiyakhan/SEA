@@ -17,4 +17,8 @@
     <string name="transaction_type">Transaction Type</string>
     <string name="register">Register</string>
     <string name="auto_detect">Auto Detect</string>
+    <string name="from_date">From</string>
+    <string name="to_date">To</string>
+    <string name="go">GO</string>
+
 </resources>
