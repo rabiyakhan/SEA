@@ -37,8 +37,8 @@ public class AnalysisActivity extends Activity {
 			@Override
 			public void onClick(View arg0) {
 
-				final String[] numbers = new String[] { "A", "B", "C", "D",
-						"E", "F", };
+				final String[] numbers = new String[] { "Date", "Category",
+						"Description", "Debit", "Credit" };
 
 				GridView gridHeader = (GridView) findViewById(R.id.gridHeader);
 
